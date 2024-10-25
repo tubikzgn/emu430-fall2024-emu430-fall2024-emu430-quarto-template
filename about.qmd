@@ -5,26 +5,30 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2020 - ongoing.
+
+-   B.S., Computer Science, Universidad de Alcala, Spain, 2022-2023(Erasmus student exchange)
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  ASELSAN, Project Planning Candidate Engineer, year 2023-ongoing
 
-2.  Firm bbb, position yyy, year yyy
+2.  Turkish Aerospace Industries, Business Analyst and Data Science Intern, 2023-ongoing
 
 # Projects
 
+In my graduation project, my teammates and I developed a survey criteria elimination project based on AHP, which is one of the multi-criteria decision-making methods for the Turkish Aerospace Industries' Innovation program, Hangar Campus.
+
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Canva, SQL,
 
 # Hobbies
+
+Paragliding, traveling, trekking, tennis, running
+
+#CV
+
+Hello you can review my resume here: https://drive.google.com/file/d/1ZN_SxPU8xqSDAkQC_WbedK5HsMLCJf4t/view?usp=sharing
